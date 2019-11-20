@@ -19,6 +19,11 @@ config/name="MSU_Platformer"
 run/main_scene="res://Scenes/World.tscn"
 config/icon="res://Sprites/Player/icon.png"
 
+[display]
+
+window/size/width=640
+window/size/height=360
+
 [rendering]
 
 environment/default_environment="res://default_env.tres"
